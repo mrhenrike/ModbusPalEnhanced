@@ -1,0 +1,11 @@
+<ivy-module version="2.0">
+    <info organisation="modbuspal" module="ModbusPal"/>
+    <configurations>
+        <conf name="compile" description="Required to compile application"/>
+    </configurations>
+    <dependencies>
+        <dependency org="org.python" name="jython-standalone" rev="2.7.0" conf="compile->default"/>
+        <dependency org="org.jfree" name="jfreechart" rev="1.0.15" conf="compile->default"/>
+        <dependency org="dev.prokop.rxtx" name="rxtx" rev="2.2.2" conf="compile->default"/>
+    </dependencies>
+</ivy-module>
