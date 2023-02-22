@@ -15,10 +15,11 @@ ModbusPal Enhanced is a MODBUS slave simulator improved, based on ModbusPal v1.6
 - Added scripts samples on "Examples" directory
 - Updated the User Guide
 - Added optional command line arguments for the executable JAR:
- ```    --loadFile - Loads a previously saved file at launch. Provide the absolute path.
-    --portNumber - An IP port number to connect this current configuration.
-    --help - A command line help message to display the command line arguments.
-    --hide - Start ModbusPal without showing the UI elements so it can run in a headless environment.
+ ```    
+    -loadFile - Loads a previously saved file at launch. Provide the absolute path.
+    -portNumber - An IP port number to connect this current configuration.
+    -help - A command line help message to display the command line arguments.
+    -hide - Start ModbusPal without showing the UI elements so it can run in a headless environment.
 ```
 - ModbusPal can be executed without a GUI
 - Updated to jython 2.7.0
