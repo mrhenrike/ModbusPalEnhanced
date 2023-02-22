@@ -84,7 +84,10 @@ Run:
 `> java -jar ModbusPalEnhanced.jar`
 
 <p align="center">
-  <img src="Examples/ModbusPalEnhanced-v1.7.png" width="350"/>
+  <img src="Examples/imgs/ModbusPalEnhanced-v1.7.png" width="100%"/>
+</p>
+<p align="center">
+  <img src="Examples/imgs/ModbusPalEnhanced-AllScreens.png" width="500"/>
 </p>
 
 ## Starting the Modbus Simulator
